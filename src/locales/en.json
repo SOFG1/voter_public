@@ -1,0 +1,68 @@
+{
+    "sign-in_title": "Log In",
+    "sign-in_login-label": "Name",
+    "sign-in_login-plhr": "Enter login",
+    "sign-in_pass-label": "Password",
+    "sign-in_pass-plhr": "Enter password",
+    "sign-in_privacy": "Privacy policy",
+    "sign-in_login": "Log In",
+    "sign-in_description": "Description",
+    "sign-in_agree": "Agree",
+    "sign-in_next": "Next",
+
+    "upload-title": "Upload Contacts",
+    "upload-subtitle": "Please select contacts from your contact list",
+    "upload-btn": "UPLOAD CONTACTS",
+    "upload-app_link": "Get App",
+    "upload-text": "Your device doesn't support contacts selecting from your device. Please upload *.csv file to import contacts",
+    "upload-upload_plhr": "Upload csv file",
+    "upload-upload_skip": "SKIP",
+    "upload-upload_btn": "UPLOAD CONTACTS",
+
+
+    "settings_back": "Back to main",
+    "settings_privacy": "Privacy policy",
+    "settings_title": "Change Password",
+    "settings_old-pass-label": "Old password",
+    "settings_old-pass-plhr": "Enter old password",
+    "settings_pass-label": "New password",
+    "settings_pass-plhr": "Enter new password",
+    "settings_pass_rpt-label": "Repeat password",
+    "settings_pass_rpt-plhr": "Repeat password",
+    "settings_pass_btn": "Change password",
+
+    "main_privacy": "Privacy policy",
+    "warning_resolve_message": "We have found several rows in our database for {{name}} {{last_name}}",
+    "warning_resolve_hint": "Please, choose row/s with his name:",
+    "warning_resolve_none": "No one from list",
+    "warning_resolve_submit": "SUBMIT",
+    "warning_resolve_yes": "Yes",
+    "warning_resolve_no": "No",
+    "questionnaire_no_questions": "No questions.",
+    "bingo_success": "Successfully sent",
+    "ballot_number": "Ballot number",
+    "voter_number": "Voter number",
+    "bingo_or": "OR",
+    "bingo_submit": "Submit",
+    "bingo_image": "Upload photo",
+    "bingo_image_submit": "Submit",
+
+    "call": "Call",
+    "to_call": "To Call",
+    "called": "Called",
+    "sms": "SMS"
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+}

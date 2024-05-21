@@ -1,0 +1,66 @@
+{
+    "sign-in_title": "התחברות",
+    "sign-in_login-label": "שם משתמש",
+    "sign-in_login-plhr": "שם משתמש",
+    "sign-in_pass-label": "סיסמה",
+    "sign-in_pass-plhr": "סיסמה",
+    "sign-in_privacy": "הצהרת פרטיות",
+    "sign-in_login": "התחבר",
+    "sign-in_description": "תיאור",
+    "sign-in_agree": "מסכים",
+    "sign-in_next": "הבא",
+
+    "upload-title": "העלאת אנשי קשר",
+    "upload-subtitle": "אנה בחר אנשים מספר הטלפונים שלך",
+    "upload-btn": "העלאת אנשי קשר",
+    "upload-app_link": "הורד את האפליקציה",
+    "upload-text": "המכשיר שלך לא תומך בהעלאת אנשי קשר ממכשירך, בבקשה תעלה קובץ csv לצורך העלאת הנתונים",
+    "upload-upload_plhr": "העלאת קובץ csv",
+    "upload-upload_skip": "דלג",
+    "upload-upload_btn": "העלאת אנשי קשר",
+
+    "settings_back": "חזרה למסך הראשי",
+    "settings_privacy": "הצהרת פרטיות",
+    "settings_title": "שנה סיסמה",
+    "settings_old-pass-label": "סיסמה ישנה",
+    "settings_old-pass-plhr": "הקש סיסמה ישנה",
+    "settings_pass-label": "סיסמה חדשה",
+    "settings_pass-plhr": "הקש סיסמה חדשה",
+    "settings_pass_rpt-label": "חזרה על סיסמה",
+    "settings_pass_rpt-plhr": "חזרה על סיסמה",
+    "settings_pass_btn": "שנה סיסמה",
+
+    "main_privacy": "הצהרת פרטיות",
+    "warning_resolve_message": "מצאנו תאימות בין כמה אנשים במערכת ל {{name}} {{last_name}}",
+    "warning_resolve_hint": "בבקשה בחר בשורה המתאימה",
+    "warning_resolve_none": "אף אחד מהרשימה",
+    "warning_resolve_submit": "שלח",
+    "warning_resolve_yes": "כן",
+    "warning_resolve_no": "לא",
+    "questionnaire_no_questions": "אין שאלות.",
+    "bingo_success": "נשלח בהצלחה",
+    "ballot_number": "מספר קלפי",
+    "voter_number": "מספר מצביע",
+    "bingo_or": "או",
+    "bingo_submit": "שלח",
+    "bingo_image": "העלה תמונה",
+    "bingo_image_submit": "שלח",
+
+    "call": "להתקשר",
+    "to_call": "נשאר להתקשר",
+    "called": "התקשרו",
+    "sms": "SMS"
+
+
+
+
+
+
+
+
+
+    
+
+
+
+}
